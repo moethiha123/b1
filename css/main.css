@@ -1,0 +1,16 @@
+.bg-coffee {
+    background: orange !important;
+}
+
+.carousel-item img {
+    height: calc(100vh - 60px);
+    object-fit: cover;
+    object-position: center;
+}
+
+.carousel-caption {
+    margin-bottom: 200px;
+}
+
+/* margin bottom အောက်ကနေ စာသားကိုအလယ်ပို့ */
+/* စာသားကိုအလယ်ပို့ချင်ရင် display block ကြေငြာ */
