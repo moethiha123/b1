@@ -12,5 +12,16 @@
     margin-bottom: 200px;
 }
 
+#projects img {
+    width: 230px;
+}
+
+.ppc {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
 /* margin bottom အောက်ကနေ စာသားကိုအလယ်ပို့ */
 /* စာသားကိုအလယ်ပို့ချင်ရင် display block ကြေငြာ */

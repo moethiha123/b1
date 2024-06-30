@@ -1,0 +1,17 @@
+@media (max-width:768px) {
+
+    .about-img,
+    .about-info {
+        width: 100% !important;
+    }
+
+    .about-img img {
+        width: 100%;
+    }
+
+    .about-info {
+        text-align: center;
+    }
+
+
+}
